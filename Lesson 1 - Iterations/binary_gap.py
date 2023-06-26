@@ -1,5 +1,9 @@
 """ BinaryGap
     Find longest sequence of zeros in binary representation of an integer.
+     
+    Task score: 100%
+    Correctness: 100%
+    Performance: Not assessed
 """
 def solution(N):
     binary_n = format(N, 'b')
