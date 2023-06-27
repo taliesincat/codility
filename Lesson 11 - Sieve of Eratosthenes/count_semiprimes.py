@@ -1,4 +1,4 @@
-""" CountNonDivisible
+""" CountSemiprimes
     
     Task score: 100%
     Correctness: 100%
